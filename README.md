@@ -5,9 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/OsamaIM/EDRO-16/stargazers"><img src="https://img.shields.io/github/stars/OsamaIM/EDRO-16?style=for-the-badge&color=blue" alt="Stars"></a>
-  <a href="https://github.com/OsamaIM/EDRO-16/network/members"><img src="https://img.shields.io/github/forks/OsamaIM/EDRO-16?style=for-the-badge&color=darkcyan" alt="Forks"></a>
-  <a href="https://github.com/OsamaIM/EDRO-16/blob/main/LICENSE"><img src="https://img.shields.io/github/license/OsamaIM/EDRO-16?style=for-the-badge&color=green" alt="License"></a>
   <a href="https://youtube.com/playlist?list=PLQrHOmw8Q7Ug&si=Uitsfv6Wf2Tod0b9"><img src="https://img.shields.io/badge/YouTube-Playlist-red?style=for-the-badge&logo=youtube" alt="YouTube Playlist"></a>
 </p>
 
